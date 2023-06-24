@@ -2,6 +2,9 @@
   
 <h3>:books: Teach Stack</h3>
 
+<h4>:black_nib: Now Learning</h4>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <h4>:green_book: Back-End</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
