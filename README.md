@@ -33,9 +33,9 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmjo0604&layout=compact)](https://github.com/shmjo0604/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmjo0604&count_private=true&layout=compact)](https://github.com/shmjo0604/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmjo0604&include_orgs=true&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmjo0604&include_orgs=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=radical)
 
 <!--
 **shmjo0604/shmjo0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
