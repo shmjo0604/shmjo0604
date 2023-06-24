@@ -1,8 +1,10 @@
+***
+
 <div align="center">
   
 <h3>:books: Teach Stack</h3>
 
-<h4>:black_nib: Now Learning</h4>
+<h4>:black_nib: Now Studying</h4>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <h4>:green_book: Back-End</h4>
@@ -28,6 +30,12 @@
 
 
 </div>
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmjo0604&layout=compact)](https://github.com/shmjo0604/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shmjo0604&show_icons=true&theme=radical)
 
 <!--
 **shmjo0604/shmjo0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
